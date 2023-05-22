@@ -10,6 +10,10 @@
 cd <your new project directory>
  
 ```
+```http
+npm install react-router-dom localforage match-sorter sort-by
+ 
+```
 #### Tailwindcss setup
 
 ```http
